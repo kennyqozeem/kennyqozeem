@@ -35,25 +35,51 @@ I help organizations <strong>turn complex data into strategic decisions, revenue
 
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I’m a Data Analyst and Analytics Lead passionate about using data to drive business growth, optimize performance, and support strategic decision-making.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+With experience across sales analytics, risk management, and business intelligence, I specialize in transforming complex datasets into clear insights, actionable strategies, and measurable outcomes.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I focus on:
+
+<ul>
+  <li>Building insight-driven dashboards that stakeholders actually use</li>
+  <li>Applying data analysis and statistical thinking to solve real business problems</li>
+  <li>Automating workflows to improve efficiency and reduce manual effort</li> 
+  <li>Developing predictive models and forecasts that guide planning and risk mitigation</li>
+</ul>
+
+<p><strong>I’m particularly driven by the moment when data moves from numbers to real business impact.</strong></p>
+
+When I’m not working with data, I enjoy mentoring aspiring analysts, contributing to data communities, and continuous learning.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://kennyqozeem.github.io/)
+### Portfolio Website 🌐
+Explore my work (https://kennyqozeem.github.io/)
       
-## 🔭 What I'm Currently Working On 
+<h2>🔭 What I’m Currently Working On</h2>
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+<ul>
+  <li>
+    <strong>Sales & Risk Forecasting Model</strong><br>
+    Building predictive models in Python to improve revenue planning and reduce credit exposure
+  </li>
+  <br>
+  <li>
+    <strong>Executive Business Intelligence Dashboard</strong><br>
+    Designing interactive Power BI dashboards integrating financial, operational, and risk metrics
+  </li>
+  <br>
+  <li>
+    <strong>Process Automation</strong><br>
+    Automating reporting workflows using Python and SQL to improve efficiency and data accuracy
+  </li>
+</ul>
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advanced statistical modeling & machine learning techniques
+- Cloud data platforms (BigQuery / Azure / AWS)
+- Scalable data pipeline and analytics architecture
 
 ## 🛠️ Technical Skillset
 
