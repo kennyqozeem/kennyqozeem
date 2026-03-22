@@ -1,10 +1,11 @@
-## Hi there, I'm Kehinde ADELAKIN 😎
 
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
-</div>
+
+<h1 align="center">Hi 👋, I'm Kehinde Adelakin</h1>
+<h3 align="center">Data Analyst | Analytics Lead | Turning Data into Business Impact</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Analytics+Lead;Business+Intelligence+Specialist;Python+%7C+SQL+%7C+Power+BI;Driving+Data-Driven+Decisions&center=true&width=500&height=45">
+</p>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
