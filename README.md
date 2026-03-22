@@ -16,7 +16,7 @@
   <!--<a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a> -->
   <a href="mailto:adelakinkehinde@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
----
+
 
 <!-- VALUE PROPOSITION (VERY IMPORTANT FOR $$$ ROLES) -->
 <h2>💼 What I Bring</h2>
@@ -40,7 +40,6 @@ I’m a Data Analyst and Analytics Lead passionate about using data to drive bus
 With experience across sales analytics, risk management, and business intelligence, I specialize in transforming complex datasets into clear insights, actionable strategies, and measurable outcomes.
 
 I focus on:
-
 <ul>
   <li>Building insight-driven dashboards that stakeholders actually use</li>
   <li>Applying data analysis and statistical thinking to solve real business problems</li>
@@ -53,11 +52,10 @@ I focus on:
 When I’m not working with data, I enjoy mentoring aspiring analysts, contributing to data communities, and continuous learning.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### Portfolio Website 🌐
+### 🌐 Portfolio Website 
 Explore my work (https://kennyqozeem.github.io/)
       
 <h2>🔭 What I’m Currently Working On</h2>
-
 <ul>
   <li>
     <strong>Sales & Risk Forecasting Model</strong><br>
