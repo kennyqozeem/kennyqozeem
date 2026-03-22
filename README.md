@@ -1,11 +1,30 @@
-
-
-<h1 align="center">Hi 👋, I'm Kehinde Adelakin</h1>
-<h3 align="center">Data Analyst | Analytics Lead | Turning Data into Business Impact</h3>
-
+<!-- DARK ANIMATED BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Analytics+Lead;Business+Intelligence+Specialist;Python+%7C+SQL+%7C+Power+BI;Driving+Data-Driven+Decisions&center=true&width=500&height=45">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Kehinde%20Adelakin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
+
+<h3 align="center">Data Analyst | Analytics Lead | Driving Business Growth with Data</h3>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Analytics+Lead+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+Expert;Turning+Data+Into+Revenue+Growth;Open+to+Remote+Opportunities&center=true&width=550&height=45">
+</p>
+
+---
+
+<!-- VALUE PROPOSITION (VERY IMPORTANT FOR $$$ ROLES) -->
+<h2>💼 What I Bring</h2>
+
+<p>
+I help organizations <strong>turn complex data into strategic decisions, revenue growth, and risk reduction</strong>.
+</p>
+
+<ul>
+  <li>Delivered <strong>253% revenue growth</strong> through data-driven insights</li>
+  <li>Built executive dashboards used for <strong>real-time decision-making</strong></li>
+  <li>Designed predictive models improving <strong>forecasting accuracy and risk control</strong></li>
+  <li>Automated reporting workflows, reducing manual effort and improving efficiency</li>
+</ul>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
