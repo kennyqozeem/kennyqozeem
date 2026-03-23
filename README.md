@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Analytics+Lead+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+Expert;Turning+Data+Into+Revenue+Growth;Open+to+Remote+Opportunities&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Narrow&size=22&duration=10000&pause=500&color=5F6B72&width=435&lines=Strategic+Planning+%26+Execution+%7C+Risk+Analysis;Process+Optimization+%26+Growth+%7C+Feasibility+Study;Stakeholder+Communication+%7C+Financial+Modelling" alt="Typing SVG" />
 </p>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
