@@ -119,12 +119,12 @@ Explore my work (https://kennyqozeem.github.io/)
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/Excel-Expert-green" alt="Excel Skill">
   <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Skill">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-green?style=for-the-badge&logoColor=white" alt="Power BI Skill">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-yellow?style=for-the-badge&logoColor=white" alt="Tableau Skill">
+  <img src="https://img.shields.io/badge/Power%20BI-Expert-green" alt="Power BI Skill">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-yellow" alt="Tableau Skill">
   <img src="https://img.shields.io/badge/Stata-Advanced-blue" alt="Stata Skill">
-  <img src="https://img.shields.io/badge/SPSS-Intermediate-yellow?style=for-the-badge&logoColor=white" alt="SPSS Skill" >
-  <img src="https://img.shields.io/badge/EView-Intermediate-yellow?style=for-the-badge&logoColor=white" alt="Eview Skill" >
-  <img src="https://img.shields.io/badge/ATLAS.ti-Advanced-blue?style=for-the-badge&logoColor=white" alt="ATLAS.ti Skill" >
+  <img src="https://img.shields.io/badge/SPSS-Intermediate-yellow" alt="SPSS Skill" >
+  <img src="https://img.shields.io/badge/EView-Intermediate-yellow" alt="Eview Skill" >
+  <img src="https://img.shields.io/badge/ATLAS.ti-Advanced-blue" alt="ATLAS.ti Skill" >
 
 
 </p>
