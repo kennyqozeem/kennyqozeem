@@ -14,7 +14,7 @@
 <!--  <img src="https://readme-typing-svg.demolab.com/?lines=Analytics+Lead+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+Expert;Turning+Data+Into+Revenue+Growth;Open+to+Remote+Opportunities&center=true&width=550&height=45"> -->
 
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+<!-- link to social media & contact info-->
 <p align="center">
   <a href="https://www.linkedin.com/in/kehinde-kazeem-adelakin-660166119/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <!--<a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a> -->
@@ -39,15 +39,7 @@ I help organizations <strong>turn complex data into strategic decisions, revenue
 
 
 
----
 
-
-<!-- link to social media & contact info-->
-<p align="center">
-  <a href="https://www.linkedin.com/in/kehinde-kazeem-adelakin-660166119/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <!--<a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a> -->
-  <a href="mailto:adelakinkehinde@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
 
 ## 🧠 About Me 
 I’m a Data Analyst and Analytics Lead passionate about using data to drive business growth, optimize performance, and support strategic decision-making.
