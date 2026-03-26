@@ -41,19 +41,6 @@ I help organizations <strong>turn complex data into strategic decisions, revenue
 
 ---
 
-<!-- VALUE PROPOSITION (VERY IMPORTANT FOR $$$ ROLES) -->
-<h2>💼 What I Bring</h2>
-
-<p>
-I help organizations <strong>turn complex data into strategic decisions, revenue growth, and risk reduction</strong>.
-</p>
-
-<ul>
-  <li>Delivered <strong>253% revenue growth</strong> through data-driven insights</li>
-  <li>Built executive dashboards used for <strong>real-time decision-making</strong></li>
-  <li>Designed predictive models improving <strong>forecasting accuracy and risk control</strong></li>
-  <li>Automated reporting workflows, reducing manual effort and improving efficiency</li>
-</ul>
 
 <!-- link to social media & contact info-->
 <p align="center">
@@ -118,7 +105,7 @@ Explore my work (https://kennyqozeem.github.io/)
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/Excel-Expert-green" alt="Excel Skill">
-  <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Skill">
+  <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=flat&logo=mysql&logoColor=white"  alt="SQL Skill">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-green" alt="Power BI Skill">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-yellow" alt="Tableau Skill">
   <img src="https://img.shields.io/badge/Stata-Advanced-blue" alt="Stata Skill">
@@ -131,23 +118,22 @@ Explore my work (https://kennyqozeem.github.io/)
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python Skill">
-  <img src="https://img.shields.io/badge/R-Beginner-orange?style=for-the-badge&logo=r&logoColor=white" alt="R Skill">
+  <img src="https://img.shields.io/badge/Python-Intermediate-yellow?style=flat&logo=Python&logoColor=white" alt="Python Skill">
+  <img src="https://img.shields.io/badge/R-Beginner-orange?style=flat&logo=r&logoColor=white"  alt="R Skill">
 
 </p>
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-expert-green?style=for-the-badge&logoColor=white" alt="Statistical Analysis" >
-  <img src="https://img.shields.io/badge/Process%20Automation-Advanced-blue?style=for-the-badge&logoColor=white"  alt="Process Automation">
-  <img src="https://img.shields.io/badge/Data%20Storytelling-Expert-green?style=for-the-badge&logoColor=white" alt=" Data Storytelling">
-  <img src="https://img.shields.io/badge/Hypothesis%20Testing-Expert-green?style=for-the-badge&logoColor=white" alt="Hypothesis Testing">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Expert-green?style=for-the-badge&logoColor=white" alt="Predictive Modeling">
-  <img src="https://img.shields.io/badge/Financial%20Modeling-Advanced-blue?style=for-the-badge&logoColor=white" alt="Financial Modeling">
-  <img src="https://img.shields.io/badge/Forecasting-Expert-green?style=for-the-badge&logoColor=white"  alt="Forecasting">
-  <img src="https://img.shields.io/badge/Decision%20Support-Expert-green?style=for-the-badge&logoColor=white"  alt="Decision Support">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-expert-green" alt="Statistical Analysis" >
+  <img src="https://img.shields.io/badge/Process%20Automation-Advanced-blue"  alt="Process Automation">
+  <img src="https://img.shields.io/badge/Data%20Storytelling-Expert-green" alt=" Data Storytelling">
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-Expert-green" alt="Hypothesis Testing">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Expert-green" alt="Predictive Modeling">
+  <img src="https://img.shields.io/badge/Financial%20Modeling-Advanced-blue" alt="Financial Modeling">
+  <img src="https://img.shields.io/badge/Forecasting-Expert-green"  alt="Forecasting">
+  <img src="https://img.shields.io/badge/Decision%20Support-Expert-green"  alt="Decision Support">
 </p>
-
 
 
 
